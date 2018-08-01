@@ -4,7 +4,7 @@ import App from './app.vue'
 
 
 import './asserts/style/test.css'
-import './asserts/images/timg.jpeg'
+//import './asserts/images/timg.jpeg'
 //import './asserts/style/test-stylus.styl'//有错
 
 const root = document.createElement('div')
